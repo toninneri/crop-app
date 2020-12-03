@@ -1,3 +1,26 @@
+# You can view the Demo app here:
+
+https://crop-notes-dev.web.app/ 
+
+<br>
+
+login: tom@tom.com
+<br>
+password: tom
+
+You can use the function sign up and create an anccount.
+
+<br>
+# Crop Notes:
+
+<p align="center">
+  <img alt="logo" src="logo.png" width="50%">
+</p>
+<p align="center">
+  <img alt="desktop" src="desktop.png" width="70%">
+  </p>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +91,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+This project is under the MIT license. See the [LICENSE] file (LICENSE.md) for more details.
+<h3 align="center">
+Done by <a href="https://www.linkedin.com/in/antonio-neri-6789828/">Antonio Neri</a>
+<br><br>
